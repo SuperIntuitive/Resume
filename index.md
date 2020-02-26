@@ -23,7 +23,7 @@ Develop Microsoft Dynamics CRM
 - Administer and service 300 users.
 - Own all aspects of complete rewrite of CRM 2011 to CRM 2016 Upgrade.
 - Completed upgrade of CRM16 to CRM365.
-- Current project is a Contract prototype system to allow program designers to easily create contract programs that allow 1-N commitment/incentives contract templates allowing instant ROI over time. This requires C# and JavaScript. It also needs to be reverse compatible for all previous existing contracts.
+- Contract system to allow program designers to easily create contract programs that allow 1-N commitment/incentives contract templates allowing instant ROI over time. This requires C# and JavaScript. It also is reverse compatible for all previous existing contracts.
 - Programs BI Tools:
 - Wrote and maintain C# program to automate Placement Report.
 - Wrote program to automate invoice to CRM business flow.
