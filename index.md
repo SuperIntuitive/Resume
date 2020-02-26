@@ -24,7 +24,7 @@ Develop Microsoft Dynamics CRM
 - Own all aspects of complete rewrite of CRM 2011 to CRM 2016 Upgrade.
 - Completed upgrade of CRM16 to CRM365.
 - Current project is a Contract prototype system to allow program designers to easily create contract programs that allow 1-N commitment/incentives contract templates allowing instant ROI over time. This requires C# and JavaScript. It also needs to be reverse compatible for all previous existing contracts.
-Programs BI Tools
+- Programs BI Tools:
 - Wrote and maintain C# program to automate Placement Report.
 - Wrote program to automate invoice to CRM business flow.
 - EDI2CRM program to automate distributor data to our CRM saved 1M subcontract cost.
@@ -34,20 +34,21 @@ Programs BI Tools
 October 2012 - October 2013
 - Completed Salesforce to CRM2011 migration. Developed plugins and scripts for migrating 5 million in sales from SF to CRM. Programmed several tools in C# using Rest interfaces.
 - Wrote applications that parse, compare, and sum data.
-- Established User acceptance criteria for migration from SalesForce.com to Dynamics CRM
+- Established User acceptance criteria for migration from SalesForce.com to Dynamics CRM.
 - Completed Certification in Dynamics CRM Administrator / Developer.
-- Trained Skype inbound sales team on the use of Dynamics CRM
-- Provided tear-1 support on technical issues
-- eTrigue (Marketing Automation system) Weekly, Monthly Reporting
-- Monitored system availability and lead flow mechanisms and worked with vendors on root cause analysis
-- # C# projects for Skype:
-- Write CRM plugins for the sales process (Accounts, Leads, Opportunities)
+- Trained Skype inbound sales team on the use of Dynamics CRM.
+- Provided tear-1 support on technical issues.
+- eTrigue (Marketing Automation system) Weekly, Monthly Reporting.
+- Monitored system availability and lead flow mechanisms and worked with vendors on root cause analysis.
+- C# projects for Skype:
+- Write CRM plugins for the sales process (Accounts, Leads, Opportunities).
 - Write plugin to process encrypted sales data from Lux HQ into won opportunities.
 - Statistical analysis of customer purchase data.
 - Automate flow from LivePerson skype.com chat to CRM lead.
 - Lync BI processor to match Lync leads to Office cube data. 
-- Automated a weekly task to import and validate Skype BI data (4-hour productivity gain)
-- # HTML/JavaScript/JQuery projects:
+- Automated a weekly task to import and validate Skype BI data (4-hour/wk productivity gain).
+- HTML/JavaScript/JQuery projects:
+- CRM Account, Lead, Opportunity front ent scripts. 
 - Develop, update and maintain an accurate knowledge base for reps.
 
 # SOFTWARE ENGINEER AT VOICENT
