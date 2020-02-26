@@ -27,7 +27,7 @@ Develop Microsoft Dynamics CRM
 - Programs BI Tools:
 - Wrote and maintain C# program to automate Placement Report.
 - Wrote program to automate invoice to CRM business flow.
-- EDI2CRM program to automate distributor data to our CRM saved 1M subcontract cost, and process 250B in annual sales.
+- EDI2CRM program to automate distributor data to our CRM saved 1M subcontract cost, and process a quarter billion in annual sales.
 - Machine Maintenance program tracks 20 different production machine issues for medical products.
 
 # CRM ADMINSTRATOR/DEVELOPER IC3 AT MICROSOFT SKYPE
