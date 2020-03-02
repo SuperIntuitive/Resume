@@ -15,7 +15,7 @@ Develop Microsoft Dynamics AX
 - Create and develop new project that enable advanced tracing of the manufacturing process.
 - Troubleshoot server and database related issues to keep software running in 24/7 environment. 
 
-# CRM ADMINISTRATOR AT ABAXIS, INC
+# CRM DEVELOPER AT ABAXIS, INC
 July 2014 - April 2019
 Develop Microsoft Dynamics CRM
 - Create / Update C# plugins using C# and XRM SDK.
