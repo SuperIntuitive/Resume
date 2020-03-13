@@ -35,7 +35,7 @@ Develop Microsoft Dynamics CRM
 - EDI2CRM program to automate distributor data to our CRM saved 1M subcontract cost, and process a quarter billion in annual sales.
 - Machine Maintenance program tracks 20 different production machine issues for medical products.
 
-# CRM ADMINSTRATOR/DEVELOPER IC3 AT MICROSOFT SKYPE
+# CRM DEVELOPER IC3 AT MICROSOFT SKYPE
 October 2012 - October 2013
 - Completed Salesforce to CRM2011 migration. Developed plugins and scripts for migrating 5 million in sales from SF to CRM. Programmed several tools in C# using Rest interfaces.
 - Wrote applications that parse, compare, and sum data.
