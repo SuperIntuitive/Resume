@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;A self-taught, self-starting programmer, I wrote my first program in C over twenty-five years ago. Over the past ten years I have been focusing on all things Microsoft Dynamics. I am comfortable working as an individual contributor or as part as a team. My particular emphasizes are on writing code in C# and Javascript, writing CRM plugins and building amazing front end interfaces that help drive compliance. I have bridged the gap between several tools and Dynamics including LivePerson, and Marketo. I can take direction and run with it. I keep a robust library or code journal of personal code that I use often. I’m a firm believer in not reinventing the wheel as well as being efficient.
 
-&nbsp;&nbsp;&nbsp;&nbsp;In my spare time I enjoy working on my personal project SuperIntuitive. SI is a LAMP stack website building tool that offers users a simple, easy to use, drag and drop/point and click interface to build websites. The goal was to make a more inclusive CMS so that everyone can use it, coders and non-coders alike. I’m very happy with the result. Its free (GPLv2) on my [Github page](https://github.com/SuperIntuitive/). 
+&nbsp;&nbsp;&nbsp;&nbsp;In my spare time I enjoy working on my personal project [SuperIntuitive](http://superintuitive.org/). SI is a LAMP stack website building tool that offers users a simple, easy to use, drag and drop/point and click interface to build websites. The goal was to make a more inclusive CMS so that everyone can use it, coders and non-coders alike. I’m very happy with the result. Its free (GPLv2) on my [Github page](https://github.com/SuperIntuitive/). 
 
 
 ## Experience
