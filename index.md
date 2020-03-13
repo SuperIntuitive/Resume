@@ -10,7 +10,7 @@
 
 
 ## Experience
-# AX DEVELOPER AT TORAY ADVANCED COMPOSITES
+# AX DEVELOPER AT ![TORAY](http://superintuitive.org/media/img/toray-logo.png) ADVANCED COMPOSITES
 April 2019 - Current
 Develop Microsoft Dynamics AX
 - Customize AX using X++:
