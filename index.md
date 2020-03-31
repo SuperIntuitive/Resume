@@ -1,6 +1,7 @@
 
 ## Robert Allen
 35 College Ave, Los Gatos, CA. 95030 | 650.389.4496 | bob.t.allen@gmail.com
+[Download MS Word copy of my resume](https://github.com/SuperIntuitive/Resume/blob/master/RobertAllenResume.docx);
 
 ## Summary
 
