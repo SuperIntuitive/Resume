@@ -4,9 +4,9 @@
 
 ## Summary
 
-&nbsp;&nbsp;&nbsp;&nbsp;A self-taught, self-starting programmer, I wrote my first program in C over twenty-five years ago. Over the past ten years I have been focusing on all things Microsoft Dynamics. I am comfortable working as an individual contributor or as part as a team. My particular emphasizes are on writing code in C# and Javascript, writing CRM plugins and building amazing front end interfaces that help drive compliance. I have bridged the gap between several tools and Dynamics including LivePerson, and Marketo. I can take direction and run with it. I keep a robust code journal of that I use often in my projects. I’m a firm believer in not reinventing the wheel as well as being efficient.
+&nbsp;&nbsp;&nbsp;&nbsp;A self-taught, self-starting programmer, I wrote my first program in C over twenty-five years ago. Over the past ten years I have been focusing on all things Microsoft Dynamics. I am comfortable working as an individual contributor or as part as a team. My particular emphasizes are on writing code in C#, X++, and Javascript, writing CRM plugins and building amazing front end interfaces that help drive compliance. I have bridged the gap between several tools with Dynamics including LivePerson, Marketo and Zillow. I can take direction and run with it. I keep a robust code journal that I use often in my projects. I’m a firm believer in not reinventing the wheel as well as being efficient.
 
-&nbsp;&nbsp;&nbsp;&nbsp;In my spare time I enjoy working on my personal project [SuperIntuitive](http://superintuitive.org/). SI is a LAMP stack website building tool that offers users a simple, easy to use, drag and drop/point and click interface to build websites. The goal was to make a more inclusive CMS so that everyone can use it, coders and non-coders alike. I’m very happy with the result. Its free (GPLv2) on my [Github page](https://github.com/SuperIntuitive/). 
+&nbsp;&nbsp;&nbsp;&nbsp;In my spare time I enjoy working on my personal project [SuperIntuitive](http://superintuitive.org/). SI is a LAMP stack website building tool that offers users a simple, easy to use, drag and drop/point and click interface to build websites. It is written in php and javascript. The goal was to share a more inclusive CMS so that everyone can use it, coders and non-coders alike. I’m very happy with the result. Its free (GPLv2) on my [Github page](https://github.com/SuperIntuitive/). 
 
 
 ## Experience
@@ -73,7 +73,7 @@ March 2008 - June 2009
 - Managed all issues and bug reporting using TechExcel tracking software
 
 ## Personal
-* Developer and Lead Programmer on [SuperIntuitive Web Content Management System](https://github.com/SuperIntuitive/SuperIntuitive). 
+* Developer and Lead Programmer on [SuperIntuitive Web Content Management System](https://github.com/SuperIntuitive/SuperIntuitive). The homepage is hosted on AWS via Ubuntu Server.
 * Microsoft ActionPack Partner 2015-Current
 * My Server: built a dual xenon chip 32 core 128GB HyperV Core server with 4x4tb @ raid10 for a dev machine for my personal use. I’ve deployed SQL Server, CRM365, SharePoint, TFS to it as well as many other services. I’m using it to practice development tasks and build some apps for my own use.
 * I’m also a game engine hobbyist. I have a project game engine that I recently ported from C++ and OpenGL to C# and OpenTK. I work on it a few hours per week.
