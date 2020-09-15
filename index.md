@@ -15,10 +15,8 @@
 December 2019 - Current
 Manage and Develop SuperIntuitive software company
 - Lead all phases of development of SuperIntuitive web design software.
-  --Write PHP, Javascript, SQL, HTML, CSS. 
 - Manage business interactions with clients. 
-- Debug existing code to fix issues.
-- 
+- Manage SI team.
 
 # AX DEVELOPER AT ´TORAY´ ADVANCED COMPOSITES
 April 2019 - Current
